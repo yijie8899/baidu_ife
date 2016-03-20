@@ -1,0 +1,63 @@
+.grid-s5m0e5{
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #eee;
+	border-color: #999;
+	padding: 20px;
+	overflow: hidden;
+	zoom:1;
+}
+.grid-s5m0e5 .col-main{
+	float: left;
+	width: 100%;
+	min-height: 30px;
+}
+.grid-s5m0e5 .col-main .main-wrap{
+	margin-left: 263px;
+	margin-right: 175px;
+	min-height: 30px;
+	border: 1px solid #999;
+	background-color: white;
+	padding: 10px;
+}
+.col-sub{
+	float: left;
+	width: 200px;
+	height: 100px;
+	min-height: 30px;
+	background: #f00;
+	margin-left: -100%;
+	border: 1px solid #999;
+	padding: 20px;
+	background-color: white;
+}
+#team_logo_inner_left{
+	float: left;
+	height: 80px;
+	width: 80px;
+	margin-left: 5px;
+}
+#inner_right{
+	float: left;
+	height: 80px;
+	width: 80px;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.col-extra{
+	float: left;
+	width: 120px;
+	min-height: 30px;
+	background-color: white;
+	border:1px solid #999;	
+	margin-left:-153px;
+}
+#logo_first,#logo_second,#logo_third,#logo_forth{
+	float: left;
+	width: 80px;
+	height: 80px;
+	margin-top: 10px;
+	margin-left: 20px;
+	margin-bottom: 10px;
+}
